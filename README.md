@@ -20,7 +20,7 @@ An intelligent web application that helps students, freshers, and job seekers im
 
 <p align="center">
 
-<a href="<YOUR_LIVE_DEMO_LINK>">
+<a href="https://interview-coach--meezakhtar.replit.app">
 <img src="https://img.shields.io/badge/🌐 Live Demo-Visit Website-blue?style=for-the-badge">
 </a>
 
