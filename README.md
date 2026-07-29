@@ -113,7 +113,9 @@ Whether you're preparing for your first internship or your dream job, HireLens p
 
 ## 🏠 Home Page
 
-> *(Add screenshot here)*
+> *<p align="center">
+  <img src="src/home.png" width="900" alt="Home Page">
+</p>*
 
 ```
 screenshots/home.png
@@ -123,7 +125,9 @@ screenshots/home.png
 
 ## 📄 Resume Analyzer
 
-> *(Add screenshot here)*
+> *<p align="center">
+  <img src="src/resume-analyzer.png" width="900" alt="Resume Analyzer">
+</p>*
 
 ```
 screenshots/resume-analyzer.png
@@ -133,7 +137,9 @@ screenshots/resume-analyzer.png
 
 ## 🤖 Mock Interview
 
-> *(Add screenshot here)*
+> *<p align="center">
+  <img src="src/mock-interview.png" width="900" alt="Mock Interview">
+</p>*
 
 ```
 screenshots/mock-interview.png
@@ -143,7 +149,9 @@ screenshots/mock-interview.png
 
 ## 📊 Dashboard
 
-> *(Add screenshot here)*
+> *<p align="center">
+  <img src="src/dashboard.png" width="900" alt="Dashboard">
+</p>*
 
 ```
 screenshots/dashboard.png
@@ -153,7 +161,9 @@ screenshots/dashboard.png
 
 ## 💡 Interview Tips
 
-> *(Add screenshot here)*
+> *<p align="center">
+  <img src="src/tips.png" width="900" alt="Interview Tips">
+</p>*
 
 ```
 screenshots/tips.png
