@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "AI Interview Prep"
+version = "1.0.0"
+id = "artifacts/interview-prep"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18570
+
+[services.development]
+run = "pnpm --filter @workspace/interview-prep run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/interview-prep", "run", "build" ]
+publicDir = "artifacts/interview-prep/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18570"
+BASE_PATH = "/"
